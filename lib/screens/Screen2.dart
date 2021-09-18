@@ -35,7 +35,7 @@ class Screen2 extends StatelessWidget {
                               height: 50,
                             ),
                             Text(
-                              "We can help get you there",
+                              "The MCAT is the greate equalizer.",
                               style: TextStyle(
                                   fontSize: 20, fontWeight: FontWeight.bold),
                             ),
@@ -43,14 +43,14 @@ class Screen2 extends StatelessWidget {
                               height: 40,
                             ),
                             Text(
-                              "Our materials were built by individuals that scored in the 99th percentile or above We can help you reach you goal of getting into medical school.",
+                              "You are three times likelier to get into medical school if you score above a 510 on the MCAT.",
                               style: TextStyle(fontSize: 20),
                             ),
                             SizedBox(
                               height: 40,
                             ),
                             Text(
-                              "It is never too late to begin studying!",
+                              "It is the only metric on you medical school application that is standardized",
                               style: TextStyle(fontSize: 20),
                             )
                           ],

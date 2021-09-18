@@ -35,24 +35,30 @@ class Screen3 extends StatelessWidget {
                               height: 50,
                             ),
                             Text(
-                              "We can help get you there",
+                              "The number of premeds are ",
                               style: TextStyle(
                                   fontSize: 20, fontWeight: FontWeight.bold),
                             ),
                             SizedBox(
-                              height: 40,
+                              height: 10,
                             ),
                             Text(
-                              "Our materials were built by individuals that scored in the 99th percentile or above We can help you reach you goal of getting into medical school.",
+                              "  ballooning!",
+                              style: TextStyle(
+                                  fontSize: 20, fontWeight: FontWeight.bold),
+                            ),
+
+                            SizedBox(
+                              height: 50,
+                            ),
+                            Text(
+                              "60% of people that apply to medical school do not get in.",
                               style: TextStyle(fontSize: 20),
                             ),
                             SizedBox(
                               height: 40,
                             ),
-                            Text(
-                              "It is never too late to begin studying!",
-                              style: TextStyle(fontSize: 20),
-                            )
+
                           ],
                         ),
                       )),
